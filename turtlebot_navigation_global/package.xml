@@ -1,0 +1,13 @@
+<package>
+  <name>turtlebot_navigation_global</name>
+  <description>navigation stack for turtlebot3 differential drive</description>
+  <author>Chao Yao</author>
+  <maintainer email="miki0w0@hotmail.com">x</maintainer>
+  <license>BSD</license>
+  <version>0.1.0</version>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+ 
+</package>
+
+

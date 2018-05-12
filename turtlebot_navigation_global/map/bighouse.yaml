@@ -1,0 +1,7 @@
+image: /home/yuki0w0/ros_workspaces/turtlebot/src/Turtlebot_navigation/turtlebot_navigation_global/map/bighouse.pgm
+resolution: 0.010000
+origin: [-15.240000, -15.560000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
